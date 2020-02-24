@@ -1,3 +1,8 @@
 body{
   font-family: 'Montserrat';
 }
+
+h1{
+  position: relative;
+  text-align: center;
+}
