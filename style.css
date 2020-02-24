@@ -1,8 +1,17 @@
 body{
+  background-color: black;
   font-family: 'Montserrat';
 }
 
 h1{
   position: relative;
   text-align: center;
+  padding-top: 15%;
+  font-size: 150px;
+  height: 200px;
+  background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 60px;
+  line-height: 60px;
 }
